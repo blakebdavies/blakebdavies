@@ -1,7 +1,7 @@
 <h1 align="start">Hi, I'm Blake 👩🏼‍💻</h1>
-<h3 align="start">A passionate Frontend Developer based in London 🇬🇧</h3>
+<h3 align="start">A passionate Software Engineer based in London 🇬🇧</h3>
 
-- 🌱 I’m currently exploring **Typescript, Nextjs and more!**
+- 🌱 I’m currently exploring **Python, Typescript, GCP and more!**
 
 - 💬 Ask me about **React and JavaScript!**
 
